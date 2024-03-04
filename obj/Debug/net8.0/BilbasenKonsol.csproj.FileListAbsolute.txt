@@ -1,0 +1,19 @@
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\BilbasenKonsol.exe
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\BilbasenKonsol.deps.json
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\BilbasenKonsol.runtimeconfig.json
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfoInputs.cache
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfo.cs
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.CoreCompileInputs.cache
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.sourcelink.json
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\refint\BilbasenKonsol.dll
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.genruntimeconfig.cache
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\ref\BilbasenKonsol.dll
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Models.dll
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Models.pdb
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
+C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.CopyComplete
