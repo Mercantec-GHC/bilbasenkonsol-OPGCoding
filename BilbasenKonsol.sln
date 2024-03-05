@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilbasenKonsol", "BilbasenKonsol.csproj", "{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Domain Models", "..\Class - Domain Models\Class Domain Models.csproj", "{A7E8F733-5CAA-4204-8FAB-1E6D58F99DE2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModels", "..\DomainModels\DomainModels.csproj", "{4FCF015D-AA72-4E14-9F1A-856F7AED0887}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A7E8F733-5CAA-4204-8FAB-1E6D58F99DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7E8F733-5CAA-4204-8FAB-1E6D58F99DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7E8F733-5CAA-4204-8FAB-1E6D58F99DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7E8F733-5CAA-4204-8FAB-1E6D58F99DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCF015D-AA72-4E14-9F1A-856F7AED0887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCF015D-AA72-4E14-9F1A-856F7AED0887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCF015D-AA72-4E14-9F1A-856F7AED0887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCF015D-AA72-4E14-9F1A-856F7AED0887}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

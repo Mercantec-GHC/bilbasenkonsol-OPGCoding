@@ -17,3 +17,22 @@ C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Mode
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Models.pdb
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.CopyComplete
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\bin\Debug\net8.0\BilbasenKonsol.exe
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\bin\Debug\net8.0\BilbasenKonsol.deps.json
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\bin\Debug\net8.0\BilbasenKonsol.runtimeconfig.json
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\bin\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\bin\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\bin\Debug\net8.0\DomainModels.dll
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\bin\Debug\net8.0\DomainModels.pdb
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfoInputs.cache
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfo.cs
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.csproj.CoreCompileInputs.cache
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.sourcelink.json
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\Bilbasen.05310A7B.Up2Date
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\refint\BilbasenKonsol.dll
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\BilbasenKonsol.genruntimeconfig.cache
+C:\Users\blsto\source\repos\OPGCoding\bilbasenkonsol-OPGCoding\obj\Debug\net8.0\ref\BilbasenKonsol.dll
